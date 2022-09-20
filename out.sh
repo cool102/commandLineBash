@@ -1,0 +1,1 @@
+echo "Goodbye2!" >> operation_history.txt
